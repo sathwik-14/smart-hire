@@ -1,6 +1,6 @@
 # Introduction
 
-__SMART HIRE__ : a project based on [SMART-HIRE](https://github.com/gautamgc17/Smart-Hire) with addition of malpractice detection and complete migration to latest third-party SDKs which isn't working in original project.
+__SMART HIRE__ : a project based on [SMART-HIRE](https://github.com/gautamgc17/Smart-Hire) with addition of malpractice detection and complete migration to latest third-party SDKs due to which this project came to be.
 
 ## Objective
 
